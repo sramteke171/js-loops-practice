@@ -28,7 +28,13 @@ required to turn in your submission.
 The first series of prompts inside `lib/challenge.js` is for you to practice
 writing `for` loops. **Make a commit after completing each prompt.**
 
-### Part 2: `while` Loops:
+### Part 2: Iterationg over Arrays:
+
+The second series of prompts inside `lib/challenge.js` is for you to practice
+iterating through an array using a `for` loop. **Make a commit after completing
+each prompt.**
+
+### Part 3: `while` Loops:
 
 The second series of prompts inside `lib/challenge.js` is for you to practice
 writing `while` loops. **Make a commit after completing each prompt.**
