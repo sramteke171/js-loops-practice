@@ -7,7 +7,7 @@ loops and `while` loops.
 
 ## Prerequisites
 
-* JavaScritp syntax
+* JavaScript syntax
 * Data types
 * `for` loops
 * `while` loops
@@ -28,7 +28,7 @@ required to turn in your submission.
 The first series of prompts inside `lib/challenge.js` is for you to practice
 writing `for` loops. **Make a commit after completing each prompt.**
 
-### Part 2: Iterationg over Arrays:
+### Part 2: Iterating over Arrays:
 
 The second series of prompts inside `lib/challenge.js` is for you to practice
 iterating through an array using a `for` loop. **Make a commit after completing
